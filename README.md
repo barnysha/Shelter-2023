@@ -1,2 +1,1 @@
-# Shelter-2023
-Shelter
+https://barnysha.github.io/Shelter-2023
